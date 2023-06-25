@@ -29,7 +29,7 @@ Check out the demo to see the Chatbot in action.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/chatbot.git`
+1. Clone the repository: `git clone https://github.com/rashedsabbir/langchain-chatbot-app.git`
 2. Install the required dependencies:
    - React: `npm install`
    - Python: `pip install -r requirements.txt`
